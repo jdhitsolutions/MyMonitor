@@ -1,3 +1,7 @@
+#my temp work files
+scratch.*
+*.tmp
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
